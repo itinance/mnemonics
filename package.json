@@ -1,0 +1,29 @@
+{
+  "name": "mnemonics",
+  "version": "1.0.0",
+  "description": "create bip39 mnemonics",
+  "main": "src/cli.js",
+  "bin": {
+    "@hagen/mnemonics": "bin/mnemonics",
+    "mnemonics": "bin/mnemonics"
+  },
+  "files": [
+    "bin/",
+    "src/"
+  ],  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bip39",
+    "mnemonics",
+    "bitcoin",
+    "ethereum"
+  ],
+  "author": "Hagen Huebel (hhuebel@itinance.com)",
+  "license": "MIT",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "esm": "^3.2.25"
+  }
+}
