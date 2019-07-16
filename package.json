@@ -1,10 +1,9 @@
 {
   "name": "mnemonics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create bip39 mnemonics",
   "main": "bin/mnemonics",
   "bin": {
-    "@hagen/mnemonics": "bin/mnemonics",
     "mnemonics": "bin/mnemonics"
   },
   "files": [
