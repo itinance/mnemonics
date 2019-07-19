@@ -1,5 +1,12 @@
 # mnemonics
 
+Run without installation to create a seed and display it as 12 words bip39 mnemonics:
+```
+npx mnemonics
+```
+
+---
+
 Installation:
 
 ```
