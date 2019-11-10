@@ -1,11 +1,16 @@
 {
   "name": "mnemonics",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "create bip39 mnemonics",
   "main": "bin/mnemonics",
   "bin": {
     "mnemonics": "bin/mnemonics"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:itinance/mnemonics.git"
+  },
+  "homepage": "https://github.com/itinance/mnemonics",  
   "files": [
     "bin/",
     "src/"
